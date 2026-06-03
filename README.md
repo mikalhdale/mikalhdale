@@ -44,7 +44,7 @@ B.Sc. Cybersecurity student building practical skills alongside my degree. Worki
 ### Currently
 
 - Completing the Google Cybersecurity Certificate
-- Building this portfolio — projects and lab write-ups coming soon
+- Gradually building out this portfolio with projects and write-ups
 - Next up: AZ-900 and SC-900
 
 ---
