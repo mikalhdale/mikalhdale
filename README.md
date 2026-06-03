@@ -1,7 +1,7 @@
 <h1 align="center">Mikal Haavik Dale</h1>
 
 <p align="center">
-  Cybersecurity Entering Final Year<br>
+  Cybersecurity Student Entering Final Year<br>
   📍 Bergen, Norway
 </p>
 
