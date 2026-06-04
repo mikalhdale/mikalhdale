@@ -26,7 +26,7 @@ B.Sc. Cybersecurity student building practical skills alongside my degree. Worki
 ---
 ### Education
 **B.Sc. Cybersecurity** *(2024 – 2027)*  
-Kristiania University College, Bergen - [View coursework](https://github.com/mikalhdale/kristiania-cybersecurity-bsc)
+Kristiania University College, Bergen - [View courses and results](https://github.com/mikalhdale/kristiania-cybersecurity-bsc)
 
 ---
 
