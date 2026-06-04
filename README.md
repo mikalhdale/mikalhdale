@@ -29,9 +29,9 @@ B.Sc. Cybersecurity student building practical skills alongside my degree. Worki
 
 | Credential | Issuer | Status |
 |---|---|---|
-| Google Cybersecurity Certificate | Google / Coursera | 🔄 In Progress |
-| Azure Fundamentals - AZ-900 | Microsoft | 📅 Planned |
-| Security Fundamentals - SC-900 | Microsoft | 📅 Planned |
+| Google Cybersecurity Certificate | Google / Coursera | In Progress |
+| Azure Fundamentals - AZ-900 | Microsoft | Planned |
+| Security Fundamentals - SC-900 | Microsoft | Planned |
 
 ---
 
