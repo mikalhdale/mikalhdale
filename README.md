@@ -24,6 +24,11 @@ B.Sc. Cybersecurity student building practical skills alongside my degree. Worki
 </p>
 
 ---
+### Education
+
+**B.Sc. Cybersecurity** *(2024 – 2027)*
+
+---
 
 ### Certifications
 
@@ -32,12 +37,6 @@ B.Sc. Cybersecurity student building practical skills alongside my degree. Worki
 | Google Cybersecurity Certificate | Google / Coursera | In Progress |
 | Azure Fundamentals - AZ-900 | Microsoft | Planned |
 | Security Fundamentals - SC-900 | Microsoft | Planned |
-
----
-
-### Education
-
-**B.Sc. Cybersecurity** *(2024 – 2027)*
 
 ---
 
