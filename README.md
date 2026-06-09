@@ -20,7 +20,7 @@
 ### About
 
 <p style="font-size:14px;">
-B.Sc. Cybersecurity student building practical skills alongside my degree. Working towards my first role in the industry post graduation (June 2027). Drawn to the blue team side of security, though open to wherever the field takes me. Actively working towards my first certifications.
+B.Sc. Cybersecurity student building practical skills alongside my degree. Working towards my first role in the industry post graduation (June 2027). Drawn to the blue team side of security, though open to wherever the field takes me. Completed my first certification and working towards more.
 </p>
 
 ---
@@ -42,7 +42,7 @@ Kristiania University College, Bergen - [View courses and results](https://githu
 
 ### Currently
 
-- Gradually building out this portfolio with projects and write-ups
+- Building out this portfolio with projects and write-ups
 - Next up: AZ-900 and SC-900
 
 ---
