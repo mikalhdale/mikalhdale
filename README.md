@@ -36,7 +36,7 @@ Kristiania University College, Bergen - [View courses and results](https://githu
 
 | Certification | Issuer | Status |
 |---|---|---|
-| Google Cybersecurity Certificate | Google / Coursera | Completed |
+| Google Cybersecurity Certificate | Google | Completed |
 | Azure Fundamentals - AZ-900 | Microsoft | Planned |
 | Security Fundamentals - SC-900 | Microsoft | Planned |
 
