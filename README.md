@@ -32,6 +32,8 @@ Kristiania University College, Bergen - [View courses and results](https://githu
 
 ### Certifications
 
+[![View Completed Certifications](https://img.shields.io/badge/🏅%20View%20Completed%20Certifications-1a1a2e?style=for-the-badge)](https://github.com/mikalhdale/certifications)
+
 | Certification | Issuer | Status |
 |---|---|---|
 | Google Cybersecurity Certificate | Google / Coursera | Completed |
