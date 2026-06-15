@@ -44,7 +44,7 @@ Kristiania University College, Bergen - [View courses and results](https://githu
 
 ### Currently
 
-- Building out this portfolio with projects and write-ups
+- Studying and building out this portfolio
 - Next up: AZ-900 and SC-900
 
 ---
